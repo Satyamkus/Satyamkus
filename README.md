@@ -11,11 +11,23 @@ I'm a Computer Science student and passionate software developer focused on buil
 ---
 
 ### 🛠️ Tech Stack
+### 🛠️ Tech Stack
+
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
+![DSA](https://img.shields.io/badge/-DSA-black?style=flat-square&logo=leetcode&logoColor=white)
+![OOP](https://img.shields.io/badge/-OOP-black?style=flat-square&logo=circle&logoColor=white)
+
 
 ---
 
