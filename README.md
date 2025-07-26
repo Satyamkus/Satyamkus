@@ -1,11 +1,11 @@
 # Hi there 👋, I'm Satyam Kushwaha
 
 ### 💻 About Me
-I'm a Computer Science student and passionate software developer focused on building responsive and scalable web applications.
+I'm a Computer Science student and  software developer focused on building responsive and scalable web applications.
 
 - 🔭 I’m currently working on: MERN Stack Projects  
-- 🌱 I’m currently learning: Next.js, Machine Learning  
-- 💬 Ask me about: React, Node.js, Express, MongoDB, Java, MySQL, DSA  
+- 🌱 I’m currently learning: Data Science, Machine Learning  
+- 💬 Ask me about: React.js, Node.js, Java, MySQL, DSA  
 - 📫 How to reach me: [Email](mailto:satyam563cse@gmail.com) | [LinkedIn](https://www.linkedin.com/in/satyam-kus912/)
 
 ---
